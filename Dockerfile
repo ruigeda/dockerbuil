@@ -1,1 +1,1 @@
-FROM us-central1-docker.pkg.dev/keephq/keep/keep-api:0.41.25
+FROM registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
