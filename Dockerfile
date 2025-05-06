@@ -1,3 +1,2 @@
-FROM registry.k8s.io/sig-storage/csi-provisioner:v3.3.0
-
+FROM registry.k8s.io/sig-storage/csi-snapshotter:v6.1.0
 
